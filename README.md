@@ -5,4 +5,13 @@
 这次应该是换行了。每次改为之后下面的"Commit changes"按钮怎么不可按呢？<br>
 ### Simple command
 #### clone<br>
-git clone git://github.com/adullboy/hello-world
+git clone git://github.com/adullboy/hello-world<br>
+### editing<br>
+### add<br>
+git add README.md<br>
+### commit<br>
+git commit<br>
+### git config --global push.default simple<br>
+### push<br>
+git push --all https://github.com/adullboy/hello-world<br>
+
