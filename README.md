@@ -16,3 +16,7 @@ git commit<br>
 git push --all https://github.com/adullboy/hello-world<br>
 ## 直接在github.com上修改文件，然后用pull命令将github上的变更同不到本地<br>
 git pull<br>
+### 现在继续在本地修改文件，然后再次同步到github上<br>
+git add README.md<br>
+git commit<br>
+git push<br>
